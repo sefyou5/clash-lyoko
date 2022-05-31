@@ -1,0 +1,1 @@
+Il etait une fois une classe composer de div. Ces divs etait en conflits car les guillemets de ces div class etaient fermés aux autres
