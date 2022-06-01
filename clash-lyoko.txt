@@ -1,6 +1,7 @@
 Il etait une fois une classe composer de div. Ces divs etaient en conflit car les guillemets de ces divs class etaient fermés aux autres, 
 tout a coup un span caché derierre les IDs non identifié était en train d'observer de loin et attendant que les divs se décalent les unes des autres, pour q'il
 puisse mettre son propre style au classe. 
-Soudain quand l'occasion se presenta il ouvra son chevron et s'installa rapidement à la ligne pour imposer sa ligne de code avant que l'espace se referme et qu'il se retrouve bloqué à tout jamais dans les abysses de Vscode. 
-sous le choc les div se mettent a hurler en dispoire, car  son style était que en blanc et noir,  pas de police pas de couleur !! 
-Et comme par hasard un fichier CSS a entendu leur crie et a dicider de venir leur donner son aide.
+Soudain quand l'occasion se presenta il ouvra son chevron et s'installa rapidement à la ligne pour imposer sa ligne de code avant que l'espace se referme et 
+qu'il se retrouve bloqué à tout jamais dans les abysses de Vscode. 
+Sous le choc les divs se mettent à hurler de desespoire car son style était brut,fade en noir et blanc sans de police pas de couleur !! 
+Passant par la un fichier CSS a entendu leurs crie et decida leurs venir en aide pour apporté un peu de vie et de couleur.
