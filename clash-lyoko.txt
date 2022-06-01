@@ -1,1 +1,3 @@
-Il etait une fois une classe composer de div. Ces divs etait en conflits car les guillemets de ces div class etaient fermés aux autres
+Il etait une fois une classe composer de div. Ces divs etait en conflits car les guillemets de ces div class etaient fermés aux autres, 
+toute un coup un span caché derierre les ID non identifier était entraine d'observer de loin et attand que les div se décales l'un de l'autre, pour q'il peut 
+mettre en fin sont propre style au classe
